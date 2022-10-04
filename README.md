@@ -12,11 +12,6 @@
 <!-- Contributions -->
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=philipecerqueira&theme=gotham&hide_border=true&area=true)
 
-<!-- Contributions Trophys  -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=philipecerqueira&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
 <!-- Linkedin  -->
 <div align="center">  
 <a href="https://www.linkedin.com/in/philipecerqueira/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0B67C2?style=for-the-badge&logo=linkedin&labelColor=0b67c2"</a>
