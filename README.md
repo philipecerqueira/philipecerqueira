@@ -12,9 +12,10 @@
 <!-- Contributions -->
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=philipecerqueira&theme=gotham&hide_border=true&area=true)
 
-<!-- Linkedin  -->
+<!-- Links  -->
 <div align="center">  
 <a href="https://www.linkedin.com/in/philipecerqueira/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0B67C2?style=for-the-badge&logo=linkedin&labelColor=0b67c2"</a>
+  <a href = "mailto:philipe.cerq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div> 
  
 ### Main skills:
