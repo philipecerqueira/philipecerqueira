@@ -15,7 +15,7 @@
 <!-- Links  -->
 <div align="center">  
 <a href="https://www.linkedin.com/in/philipecerqueira/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0B67C2?style=for-the-badge&logo=linkedin&labelColor=0b67c2"</a>
-  <a href = "mailto:philipe.cerq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:philipe.cerq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=ea4335" target="_blank"></a>
 </div> 
  
 ### Main skills:
@@ -36,7 +36,7 @@
 ### Other Knowledge:
 ![Jquery](https://img.shields.io/badge/-Jquery-0D1117?style=for-the-badge&logo=jquery&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=316a99&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
@@ -44,7 +44,7 @@
 ### Studying in this moment:
 ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![React Native](https://img.shields.io/badge/-React.native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=316a99&labelColor=0D1117)&nbsp;
 ![Django](https://img.shields.io/badge/-django-0D1117?style=for-the-badge&logo=django&logoColor=0c4b33&labelColor=0D1117)&nbsp;
 
 <!-- Count  -->
