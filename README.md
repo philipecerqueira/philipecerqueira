@@ -4,20 +4,21 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <!-- Statistcs -->
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=philipecerqueira&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Philipe Cerqueira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philipecerqueira&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+ | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=philipecerqueira&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=philipecerqueira&hide=Html&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=philipecerqueira&theme=github_dark) |
+| :-: | :-: | :-: |
 
 <!-- Contributions -->
-![Contribution](https://activity-graph.herokuapp.com/graph?username=philipecerqueira&theme=gotham&hide_border=true&area=true)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=philipecerqueira&theme=github_dark) |
+| :-: |
 
 <!-- Links  -->
-<div align="center">  
+<div align="center">
 <a href="https://www.linkedin.com/in/philipecerqueira/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0B67C2?style=for-the-badge&logo=linkedin&labelColor=0b67c2"</a>
   <a href = "mailto:philipe.cerq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=ea4335" target="_blank"></a>
-</div> 
- 
+</div>
+  
+
 ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
